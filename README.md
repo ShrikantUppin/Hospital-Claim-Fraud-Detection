@@ -5,4 +5,4 @@
  
 * https://hospital-claim-fraud-detection.herokuapp.com/
 
-[](https://github.com/ShrikantUppin/Hospital-Claim-Fraud-Detection/blob/main/heroku_app_image.png?raw=true)
+![](https://github.com/ShrikantUppin/Hospital-Claim-Fraud-Detection/blob/main/heroku_app_image.png?raw=true)
